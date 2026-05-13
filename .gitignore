@@ -1,0 +1,31 @@
+# Xcelium simulation compiled artifacts
+xcelium.d/
+xrun.history
+xrun.log
+*.log
+
+# Waveform files
+waves.shm/
+*.shm/
+*.trn
+*.dsn
+
+# Coverage data
+cov_work/
+
+# SimVision GUI settings
+.simvision/
+
+# IDA database
+ida.db/
+
+# macOS metadata
+.DS_Store
+
+# Solutions directory (reference answers, not student work)
+.solutions/
+
+# Editor swap files
+*.swp
+*.swo
+*~
